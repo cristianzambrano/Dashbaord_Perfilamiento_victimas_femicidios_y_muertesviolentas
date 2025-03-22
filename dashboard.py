@@ -6,7 +6,11 @@ import seaborn as sns
 
 # Configuración general
 st.set_page_config(layout="wide")
-st.title("Dashboard - Objetivo 2: Zonas de Riesgo de Femicidios en Ecuador")
+
+st.title("Caracterización de Factores Predictivos para Identificar Zonas de Riesgo de Femicidios y Muertes Violentas de Mujeres en Ecuador")
+st.subheader("Dashboard - Perfilamiento de las víctimas de femicidios y muertes violentas femeninas en Ecuador")
+
+
 
 # Cargar datos
 @st.cache_data
