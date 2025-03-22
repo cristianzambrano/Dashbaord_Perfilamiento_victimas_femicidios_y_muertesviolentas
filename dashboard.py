@@ -9,11 +9,6 @@ st.set_page_config(layout="wide")
 
 st.title("Caracterización de Factores Predictivos para Identificar Zonas de Riesgo de Femicidios y Muertes Violentas de Mujeres en Ecuador")
 st.subheader("Dashboard - Perfilamiento de las víctimas de femicidios y muertes violentas femeninas en Ecuador")
-<<<<<<< HEAD
-=======
-.
->>>>>>> 63e67b69a518ebd04b47af11e9813d25e9477710
-
 
 
 # Cargar datos
