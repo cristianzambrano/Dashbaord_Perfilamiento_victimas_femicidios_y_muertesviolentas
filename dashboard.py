@@ -11,7 +11,7 @@ st.title("Dashboard - Objetivo 2: Zonas de Riesgo de Femicidios en Ecuador")
 # Cargar datos
 @st.cache_data
 def cargar_datos():
-    return pd.read_excel("../datos_wendy.xlsx")
+    return pd.read_excel("datos_wendy.xlsx")
 
 df = cargar_datos()
 
